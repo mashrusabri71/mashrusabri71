@@ -11,12 +11,12 @@ I'm not your average developer - I'm a code-slinging, scene-stealing, bug-squash
 - 🕵️ **QA Quester**: On a mission to become the Sherlock Holmes of Quality Assurance. No bug is safe from my magnifying glass!
 
 ## 💻 Code Arsenal
-skills = {
-    'Expert': ['C++', 'C#', 'Java', 'Python', 'Unity'],
-    'Intermediate': ['C', 'HTML/CSS', 'SQL', 'SQLite', 'Matplotlib', 'R', 'Arduino'],
-    'Learning': ['Cloud Computing', 'QA Testing'],
-    'Secret Weapon': ['Acting skills for rubber duck debugging']
-}
+| Skill Level | Technologies |
+|-------------|--------------|
+| Expert | C++, C#, Java, Python, Unity |
+| Intermediate | C, HTML/CSS, SQL, SQLite, Matplotlib, R, Arduino |
+| Learning | Cloud Computing, QA Testing |
+| Secret Weapon | Acting skills for rubber duck debugging |
 
 
 
