@@ -4,6 +4,12 @@
 
 I'm not your average developer - I'm a code-slinging, scene-stealing, bug-squashing maestro with a flair for the dramatic! When I'm not crafting elegant algorithms, you might find me on stage or in front of a camera, bringing characters to life as a proud member of ACTRA.
 
+## 🎓 Education & Interests
+
+- 📚 Computer Science student at Memorial University of Newfoundland
+- 🧠 Avid reader and lifelong learner, constantly exploring tech, philosophy, art, and management skills
+- 🌟 Passionate about merging technology with creativity and performance
+
 ## 🚀 My Tech Journey
 
 - 🎮 **Game Dev Guru**: Most of my work has been in game development, where I've breathed life into pixels and polygons.
@@ -18,8 +24,6 @@ I'm not your average developer - I'm a code-slinging, scene-stealing, bug-squash
 | Learning | Cloud Computing, QA Testing |
 | Secret Weapon | Acting skills for rubber duck debugging |
 
-
-
 ## 🏆 Project Showcase
 
 - 🕹️ **3D Pacman Shooter**: Who said Pacman can't pack heat? Unity-powered nostalgia with a twist!
@@ -31,9 +35,9 @@ I'm not your average developer - I'm a code-slinging, scene-stealing, bug-squash
 
 You might catch me:
 - 🎬 Acting in a local production
-- 🧊 Solving Rubik's cubes at lightning speed
+- 📖 Diving into a new book on tech, philosophy, or art
 - 🎮 Playtesting games (for research, of course!)
-- 🍕  What movies can I make
+- 🎥 Brainstorming ideas for my next film project
 
 ## 🌟 Let's Connect!
 
@@ -41,3 +45,4 @@ You might catch me:
 - [GitHub](https://github.com/mashrusabri71) - Where my code comes to play
 
 Remember, in the game of life, always be the player character, never the NPC! Let's create some epic code together! 🚀🎮🎭
+
