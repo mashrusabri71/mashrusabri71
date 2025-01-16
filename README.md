@@ -33,7 +33,7 @@ You might catch me:
 - 🎬 Acting in a local production
 - 🧊 Solving Rubik's cubes at lightning speed
 - 🎮 Playtesting games (for research, of course!)
-- 🍕 Debating whether pineapple belongs on pizza (it does, fight me)
+- 🍕  What movies can I make
 
 ## 🌟 Let's Connect!
 
