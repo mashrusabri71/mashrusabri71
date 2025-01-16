@@ -12,12 +12,12 @@ I'm not your average developer - I'm a code-slinging, scene-stealing, bug-squash
 
 ## 💻 Code Arsenal
 skills = {
-'Expert': ['C++', 'C#', 'Java', 'Python', 'Unity'],
-'Intermediate': ['C', 'HTML/CSS', 'SQL', 'SQLite', 'Matplotlib', 'R', 'Arduino'],
-'Learning': ['Cloud Computing', 'QA Testing'],
-'Secret Weapon': ['Acting skills for rubber duck debugging']
+    'Expert': ['C++', 'C#', 'Java', 'Python', 'Unity'],
+    'Intermediate': ['C', 'HTML/CSS', 'SQL', 'SQLite', 'Matplotlib', 'R', 'Arduino'],
+    'Learning': ['Cloud Computing', 'QA Testing'],
+    'Secret Weapon': ['Acting skills for rubber duck debugging']
 }
-text
+
 
 
 ## 🏆 Project Showcase
