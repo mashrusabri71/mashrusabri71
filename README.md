@@ -52,7 +52,10 @@ I'm not your average developer – I'm a code-slinging, scene-stealing, bug-squa
 | Data Science    | KaggleHub, pandas, matplotlib, seaborn, python-dotenv, langchain, transformers, gradio, notebook, ipywidgets |
 | Secret Weapon   | Acting skills for rubber duck debugging                                                                  |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashrusabri71&layout=compact&theme=radical)
 ---
+
+
 
 ## 🏆 Project Showcase
 
@@ -60,6 +63,7 @@ I'm not your average developer – I'm a code-slinging, scene-stealing, bug-squa
 - 🧠 **Madtrix**: Addictive C++ puzzle game
 - 🎨 **Video Color Calibrator**: For perfectly tuned visuals
 - ♟️ **Four the Board Game**: Java-powered strategy fun
+- 📚 **Semantic Book Recommender**: AI-powered system for personalized book recommendations using semantic search
 
 ---
 
