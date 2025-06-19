@@ -63,7 +63,7 @@ I'm not your average developer – I'm a code-slinging, scene-stealing, bug-squa
 | Intermediate    | C, HTML/CSS, Arduino, Matplotlib, R, Livekit                                                             |
 | Learning        | Cloud Computing, QA Testing, Data Science, ML, LLMs                                                      |
 | Data Science    | KaggleHub, pandas, matplotlib, seaborn, python-dotenv, langchain, transformers, gradio, notebook, ipywidgets |
-| Secret Weapon   | Acting skills for rubber duck debugging                                                                  |
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashrusabri71&layout=compact&theme=radical)
 ---
