@@ -14,10 +14,9 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" style="background:#FFD21C; border-radius:10px; padding:4px;" title="Hugging Face" />
 
   <!-- Radio (example, replace with your preferred icon and color) -->
-  <img src="https://img.icons8.com/ios-filled/50/4CAF50/radio.png" height="60" title="Radio" />
+ 
 
   <!-- ChromaDB (example, replace with your preferred icon and color) -->
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/.github/logo.svg" height="60" style="background:#FF69B4; border-radius:10px; padding:4px;" title="ChromaDB" />
 
   <!-- GitHub (custom color) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="filter: invert(28%) sepia(83%) saturate(1500%) hue-rotate(215deg) brightness(95%) contrast(90%);" title="GitHub" />
