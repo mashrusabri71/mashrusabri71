@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello, World! I'm Mashrur Rashid</h1>
 
 <p align="center">
+  <!-- Main Stack Icons -->
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,py,sql,html,css,arduino" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
@@ -9,8 +10,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-</p>
 
+  <!-- Additional Stack Icons -->
+  <!-- Hugging Face -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="60" alt="Hugging Face"/>
+  <!-- LangChain (no official icon, using repo mascot as a workaround) -->
+  <img src="https://avatars.githubusercontent.com/u/139914669?s=200&v=4" height="60" alt="LangChain"/>
+  <!-- Gradio -->
+  <img src="https://gradio.app/assets/img/icons/grad.svg" height="60" alt="Gradio"/>
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="OpenCV"/>
+  <!-- ChromaDB (no official icon, using repo avatar) -->
+  <img src="https://avatars.githubusercontent.com/u/104213221?s=200&v=4" height="60" alt="ChromaDB"/>
+  <!-- LivKit (no official icon, you may want to provide a link here if available) -->
+  <!-- <img src="LINK_TO_LIVKIT_ICON" height="60" alt="LivKit"/> -->
+</p>
 ---
 
 ## 🎭 Code by Day, Act by Night
